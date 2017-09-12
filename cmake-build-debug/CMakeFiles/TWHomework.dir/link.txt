@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++   -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/TWHomework.dir/global.cpp.o CMakeFiles/TWHomework.dir/ground_order.cpp.o CMakeFiles/TWHomework.dir/main.cpp.o CMakeFiles/TWHomework.dir/user_order.cpp.o  -o TWHomework 
